@@ -1,0 +1,126 @@
+{
+    "Sentiment": {
+        "sentence": "The lazy dog jumps over the brown fox.",
+        "polarity_score": -0.3612,
+        "subjectivity_score": 1.0,
+        "polarity": "Slightly Negative",
+        "subjectivity": "Subjective"
+    }
+}
+{
+    "Sentiment": {
+        "sentence": "The lazy dog jumps over the brown fox.",
+        "polarity_score": -0.3612,
+        "subjectivity_score": 1.0,
+        "polarity": "Slightly Negative",
+        "subjectivity": "Subjective"
+    }
+}
+{
+    "Sentiment": {
+        "sentence": "The lazy dog jumps over the brown fox.",
+        "polarity_score": -0.3612,
+        "subjectivity_score": 1.0,
+        "polarity": "Slightly Negative",
+        "subjectivity": "Subjective"
+    }
+}
+{
+    "Sentiment": {
+        "sentence": "The quick brown fox jumps over the lazy dog.",
+        "polarity_score": -0.3612,
+        "subjectivity_score": 0.75,
+        "polarity": "Slightly Negative",
+        "subjectivity": "Subjective"
+    }
+}
+{
+    "Sentiment": {
+        "sentence": "Jakob Balkovec",
+        "polarity_score": 0.0,
+        "subjectivity_score": 0.0,
+        "polarity": "Neutral",
+        "subjectivity": "Objective"
+    }
+}
+{
+    "Sentiment": {
+        "sentence": "The quick brown fox jumps over the lazy fox.",
+        "polarity_score": -0.3612,
+        "subjectivity_score": 0.75,
+        "polarity": "Slightly Negative",
+        "subjectivity": "Subjective"
+    }
+}
+{
+    "Sentiment": {
+        "sentence": "Jakob",
+        "polarity_score": 0.0,
+        "subjectivity_score": 0.0,
+        "polarity": "Neutral",
+        "subjectivity": "Objective"
+    }
+}
+{
+    "Sentiment": {
+        "sentence": "The lazy brown fox jumps over the lazy dog.",
+        "polarity_score": -0.6124,
+        "subjectivity_score": 1.0,
+        "polarity": "Very Negative",
+        "subjectivity": "Subjective"
+    }
+}
+{
+    "Sentiment": {
+        "sentence": "Jakob",
+        "polarity_score": 0.0,
+        "subjectivity_score": 0.0,
+        "polarity": "Neutral",
+        "subjectivity": "Objective"
+    }
+}
+{
+    "Sentiment": {
+        "sentence": "Jakob123",
+        "polarity_score": 0.0,
+        "subjectivity_score": 0.0,
+        "polarity": "Neutral",
+        "subjectivity": "Objective"
+    }
+}
+{
+    "Sentiment": {
+        "sentence": "I am retarded",
+        "polarity_score": -0.5267,
+        "subjectivity_score": 1.0,
+        "polarity": "Very Negative",
+        "subjectivity": "Subjective"
+    }
+}
+{
+    "Sentiment": {
+        "sentence": "The quick brown fox jumps over the lazy dog.",
+        "polarity_score": 0.0,
+        "subjectivity_score": 0.5,
+        "polarity": "Neutral",
+        "subjectivity": "Subjective"
+    }
+}
+{
+    "Sentiment": {
+        "sentence": "The quick brown fox jumps over the lazy dog.",
+        "polarity_score": 0.0,
+        "subjectivity_score": 0.5,
+        "polarity": "Neutral",
+        "subjectivity": "Subjective"
+    }
+}
+{
+    "Sentiment": {
+        "sentence": "Jakob is a great person",
+        "polarity_score": 0.6249,
+        "subjectivity_score": 0.75,
+        "polarity": "Very Positive",
+        "subjectivity": "Subjective"
+    }
+}

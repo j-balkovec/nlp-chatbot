@@ -1,0 +1,39 @@
+2023-12-18 18:01:14,482 - INFO - [chatbot log cleared]
+2023-12-18 18:01:14,483 - INFO - [appearance mode set to "dark", theme set to "green"]
+2023-12-18 18:01:14,692 - INFO - [frame initialized]
+2023-12-18 18:01:14,693 - INFO - [font set to {FONT_FAMILTY} {FONT_SIZE}]
+2023-12-18 18:01:14,697 - INFO - [entry field initialized, width: {UNI_WIDTH}, height: {HEIGHT}]
+2023-12-18 18:01:14,716 - INFO - [text box initialized, width: {UNI_WIDTH}, height: {HEIGHT}]
+2023-12-18 18:01:14,717 - INFO - [analyze button initialized, callback "self.analyze_sentence"]
+2023-12-18 18:01:14,717 - INFO - [exit button initialized, callback "root.destroy"]
+2023-12-18 18:01:14,717 - INFO - [root window initialized]
+2023-12-18 18:01:25,949 - INFO - [user input fetched: The lazy dog jumps over the brown fox.]
+2023-12-18 18:01:26,006 - INFO - [chatbot response fetched: {
+    "Sentiment": {
+        "sentence": "The lazy dog jumps over the brown fox.",
+        "polarity_score": -0.3612,
+        "subjectivity_score": 1.0,
+        "polarity": "Slightly Negative",
+        "subjectivity": "Subjective"
+    }
+}]
+2023-12-18 18:01:26,006 - INFO - [chatbot response logged: {
+    "Sentiment": {
+        "sentence": "The lazy dog jumps over the brown fox.",
+        "polarity_score": -0.3612,
+        "subjectivity_score": 1.0,
+        "polarity": "Slightly Negative",
+        "subjectivity": "Subjective"
+    }
+}]
+2023-12-18 18:01:26,006 - INFO - [chatbot response fetched: 
+{
+    "Sentiment": {
+        "sentence": "The lazy dog jumps over the brown fox.",
+        "polarity_score": -0.3612,
+        "subjectivity_score": 1.0,
+        "polarity": "Slightly Negative",
+        "subjectivity": "Subjective"
+    }
+}]
+2023-12-18 18:01:26,006 - INFO - [user input failed to fetch]

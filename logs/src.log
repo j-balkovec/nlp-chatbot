@@ -1,0 +1,101 @@
+2023-12-18 18:25:28,531 - INFO - [sentence polarity score calculated]: 0.0
+2023-12-18 18:25:28,564 - INFO - [sentence subjectivity score calculated]: 0.0
+2023-12-18 18:27:23,188 - INFO - [sentence stripped of special characters]: Jakob
+2023-12-18 18:27:23,195 - INFO - [sentence tokenized]: ['jakob']
+2023-12-18 18:27:24,575 - INFO - [sentence stripped of special characters]: Jakob
+2023-12-18 18:27:24,575 - INFO - [sentence tokenized]: ['jakob']
+2023-12-18 18:27:26,435 - INFO - [sentence stripped of special characters]: Jakob
+2023-12-18 18:27:26,436 - INFO - [sentence tokenized]: ['jakob']
+2023-12-18 18:27:28,547 - INFO - [sentence stripped of special characters]: Jakob
+2023-12-18 18:27:28,547 - INFO - [sentence tokenized]: ['jakob']
+2023-12-18 18:27:28,986 - INFO - [sentence stripped of special characters]: Jakob
+2023-12-18 18:27:28,986 - INFO - [sentence tokenized]: ['jakob']
+2023-12-18 18:27:29,120 - INFO - [sentence stripped of special characters]: Jakob
+2023-12-18 18:27:29,120 - INFO - [sentence tokenized]: ['jakob']
+2023-12-18 18:27:29,284 - INFO - [sentence stripped of special characters]: Jakob
+2023-12-18 18:27:29,284 - INFO - [sentence tokenized]: ['jakob']
+2023-12-18 18:27:29,423 - INFO - [sentence stripped of special characters]: Jakob
+2023-12-18 18:27:29,423 - INFO - [sentence tokenized]: ['jakob']
+2023-12-18 18:27:29,576 - INFO - [sentence stripped of special characters]: Jakob
+2023-12-18 18:27:29,576 - INFO - [sentence tokenized]: ['jakob']
+2023-12-18 18:27:29,734 - INFO - [sentence stripped of special characters]: Jakob
+2023-12-18 18:27:29,734 - INFO - [sentence tokenized]: ['jakob']
+2023-12-18 18:27:29,886 - INFO - [sentence stripped of special characters]: Jakob
+2023-12-18 18:27:29,887 - INFO - [sentence tokenized]: ['jakob']
+2023-12-18 18:27:30,040 - INFO - [sentence stripped of special characters]: Jakob
+2023-12-18 18:27:30,041 - INFO - [sentence tokenized]: ['jakob']
+2023-12-18 18:27:30,186 - INFO - [sentence stripped of special characters]: Jakob
+2023-12-18 18:27:30,186 - INFO - [sentence tokenized]: ['jakob']
+2023-12-18 18:27:30,337 - INFO - [sentence stripped of special characters]: Jakob
+2023-12-18 18:27:30,337 - INFO - [sentence tokenized]: ['jakob']
+2023-12-18 18:27:32,310 - INFO - [sentence stripped of special characters]: Jakob
+2023-12-18 18:27:32,311 - INFO - [sentence tokenized]: ['jakob']
+2023-12-18 18:27:33,140 - INFO - [sentence stripped of special characters]: Jakob
+2023-12-18 18:27:33,140 - INFO - [sentence tokenized]: ['jakob']
+2023-12-18 18:27:33,313 - INFO - [sentence stripped of special characters]: Jakob
+2023-12-18 18:27:33,313 - INFO - [sentence tokenized]: ['jakob']
+2023-12-18 18:27:33,495 - INFO - [sentence stripped of special characters]: Jakob
+2023-12-18 18:27:33,495 - INFO - [sentence tokenized]: ['jakob']
+2023-12-18 18:30:33,060 - INFO - [sentence stripped of special characters]: Jakob
+2023-12-18 18:30:33,069 - INFO - [sentence tokenized]: ['jakob']
+2023-12-18 18:31:23,640 - INFO - [sentence stripped of special characters]: Jakob
+2023-12-18 18:31:23,646 - INFO - [sentence tokenized]: ['jakob']
+2023-12-18 18:31:25,523 - INFO - [sentence stripped of special characters]: Jakob
+2023-12-18 18:31:25,524 - INFO - [sentence tokenized]: ['jakob']
+2023-12-18 18:32:09,360 - INFO - [sentence stripped of special characters]: Jakob
+2023-12-18 18:32:09,367 - INFO - [sentence tokenized]: ['jakob']
+2023-12-18 18:34:49,534 - INFO - [sentence stripped of special characters]: Jakob
+2023-12-18 18:34:49,544 - INFO - [sentence tokenized]: ['jakob']
+2023-12-18 18:34:49,994 - INFO - [sentence stripped of special characters]: Jakob
+2023-12-18 18:34:49,995 - INFO - [sentence tokenized]: ['jakob']
+2023-12-18 18:34:50,156 - INFO - [sentence stripped of special characters]: Jakob
+2023-12-18 18:34:50,156 - INFO - [sentence tokenized]: ['jakob']
+2023-12-18 18:34:50,305 - INFO - [sentence stripped of special characters]: Jakob
+2023-12-18 18:34:50,305 - INFO - [sentence tokenized]: ['jakob']
+2023-12-18 18:34:50,450 - INFO - [sentence stripped of special characters]: Jakob
+2023-12-18 18:34:50,451 - INFO - [sentence tokenized]: ['jakob']
+2023-12-18 18:34:50,573 - INFO - [sentence stripped of special characters]: Jakob
+2023-12-18 18:34:50,573 - INFO - [sentence tokenized]: ['jakob']
+2023-12-18 18:35:49,438 - INFO - [sentence stripped of special characters]: Jakob1
+2023-12-18 18:35:49,445 - INFO - [sentence tokenized]: ['jakob1']
+2023-12-18 18:37:39,810 - INFO - [sentence stripped of special characters]: Jakob
+2023-12-18 18:37:39,821 - INFO - [sentence tokenized]: ['jakob']
+2023-12-18 18:38:12,994 - INFO - [sentence stripped of special characters]: Jakob1
+2023-12-18 18:38:13,004 - INFO - [sentence tokenized]: ['jakob1']
+2023-12-18 18:38:13,004 - INFO - [sentence stemmed]: ['jakob1']
+2023-12-18 18:38:13,004 - INFO - [sentence preprocessed]: ['jakob1']
+2023-12-18 18:40:00,252 - INFO - [sentence stripped of special characters]: Jakob123
+2023-12-18 18:40:00,262 - INFO - [sentence tokenized]: ['jakob123']
+2023-12-18 18:40:00,262 - INFO - [sentence stemmed]: ['jakob123']
+2023-12-18 18:40:00,262 - INFO - [sentence preprocessed]: ['jakob123']
+2023-12-18 18:40:00,273 - INFO - [sentence polarity score calculated]: 0.0
+2023-12-18 18:41:15,178 - INFO - [sentence stripped of special characters]: Jakob123
+2023-12-18 18:41:15,184 - INFO - [sentence tokenized]: ['jakob123']
+2023-12-18 18:41:15,184 - INFO - [sentence stemmed]: ['jakob123']
+2023-12-18 18:41:15,184 - INFO - [sentence preprocessed]: ['jakob123']
+2023-12-18 18:41:15,192 - INFO - [sentence polarity score calculated]: 0.0
+2023-12-18 18:41:15,232 - INFO - [sentence subjectivity score calculated]: 0.0
+2023-12-18 18:41:23,574 - INFO - [sentence stripped of special characters]: I am retarded
+2023-12-18 18:41:23,574 - INFO - [sentence tokenized]: ['i', 'am', 'retarded']
+2023-12-18 18:41:23,574 - INFO - [sentence stemmed]: ['i', 'am', 'retard']
+2023-12-18 18:41:23,574 - INFO - [sentence preprocessed]: ['i', 'am', 'retard']
+2023-12-18 18:41:23,583 - INFO - [sentence polarity score calculated]: -0.5267
+2023-12-18 18:41:23,583 - INFO - [sentence subjectivity score calculated]: 1.0
+2023-12-18 18:42:55,493 - INFO - [sentence stripped of special characters]: The quick brown fox jumps over the lazy dog
+2023-12-18 18:42:55,504 - INFO - [sentence tokenized]: ['the', 'quick', 'brown', 'fox', 'jumps', 'over', 'the', 'lazy', 'dog']
+2023-12-18 18:42:55,505 - INFO - [sentence stemmed]: ['the', 'quick', 'brown', 'fox', 'jump', 'over', 'the', 'lazi', 'dog']
+2023-12-18 18:42:55,505 - INFO - [sentence preprocessed]: ['the', 'quick', 'brown', 'fox', 'jump', 'over', 'the', 'lazi', 'dog']
+2023-12-18 18:42:55,515 - INFO - [sentence polarity score calculated]: 0.0
+2023-12-18 18:42:55,553 - INFO - [sentence subjectivity score calculated]: 0.5
+2023-12-18 19:59:03,322 - INFO - [sentence stripped of special characters]: The quick brown fox jumps over the lazy dog
+2023-12-18 19:59:03,333 - INFO - [sentence tokenized]: ['the', 'quick', 'brown', 'fox', 'jumps', 'over', 'the', 'lazy', 'dog']
+2023-12-18 19:59:03,333 - INFO - [sentence stemmed]: ['the', 'quick', 'brown', 'fox', 'jump', 'over', 'the', 'lazi', 'dog']
+2023-12-18 19:59:03,333 - INFO - [sentence preprocessed]: ['the', 'quick', 'brown', 'fox', 'jump', 'over', 'the', 'lazi', 'dog']
+2023-12-18 19:59:03,343 - INFO - [sentence polarity score calculated]: 0.0
+2023-12-18 19:59:03,375 - INFO - [sentence subjectivity score calculated]: 0.5
+2023-12-18 19:59:31,022 - INFO - [sentence stripped of special characters]: Jakob is a great person
+2023-12-18 19:59:31,023 - INFO - [sentence tokenized]: ['jakob', 'is', 'a', 'great', 'person']
+2023-12-18 19:59:31,023 - INFO - [sentence stemmed]: ['jakob', 'is', 'a', 'great', 'person']
+2023-12-18 19:59:31,023 - INFO - [sentence preprocessed]: ['jakob', 'is', 'a', 'great', 'person']
+2023-12-18 19:59:31,032 - INFO - [sentence polarity score calculated]: 0.6249
+2023-12-18 19:59:31,033 - INFO - [sentence subjectivity score calculated]: 0.75
